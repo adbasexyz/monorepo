@@ -7,3 +7,6 @@
 [submodule "adbase-web"]
 	path = adbase-web
 	url = https://github.com/rajgoesout/adbase-web
+[submodule "adbase-pixel"]
+	path = adbase-pixel
+	url = https://github.com/rajgoesout/adbase-pixel
