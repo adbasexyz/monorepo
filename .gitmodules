@@ -1,0 +1,9 @@
+[submodule "adframeview"]
+	path = adframeview
+	url = https://github.com/rajgoesout/framerouteexample
+[submodule "adbase-api"]
+	path = adbase-api
+	url = https://github.com/rajgoesout/adbase-api
+[submodule "adbase-web"]
+	path = adbase-web
+	url = https://github.com/rajgoesout/adbase-web
